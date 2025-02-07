@@ -1,0 +1,20 @@
+﻿  FlappyBox.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': 매크로 재정의
+  (소스 파일 'FlappyBox.cpp'을(를) 컴파일하는 중)
+      D:\TesFolder\FlappyBox\packages\glfw.3.3.7\build\native\include\GLFW\glfw3.h(123,11):
+      'APIENTRY'의 이전 정의를 참조하십시오.
+  
+D:\TesFolder\FlappyBox\FlappyBox\GameLoop.hpp(113,29): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  (소스 파일 'FlappyBox.cpp'을(를) 컴파일하는 중)
+  
+D:\TesFolder\FlappyBox\FlappyBox\GameLoop.hpp(113,23): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  (소스 파일 'FlappyBox.cpp'을(를) 컴파일하는 중)
+  
+D:\TesFolder\FlappyBox\FlappyBox\GameLoop.hpp(113,17): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  (소스 파일 'FlappyBox.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  FlappyBox.vcxproj -> D:\TesFolder\FlappyBox\x64\Release\FlappyBox.exe
